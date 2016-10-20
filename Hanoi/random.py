@@ -3,7 +3,7 @@
 Author - marius
 Date - 15.10.2016
 
-Solving the towers of hanoi , using the random optimised approach.
+Solving the towers of hanoi , using the random approach.
 """
 import basics
 import time
